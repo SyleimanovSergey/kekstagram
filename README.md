@@ -1,1 +1,3 @@
 # kekstagram
+
+Study project
